@@ -74,4 +74,5 @@ except KeyboardInterrupt:
 
 finally:
     print("exited")
+    fan.start(FAN_OFF)
     #GPIO.cleanup()
