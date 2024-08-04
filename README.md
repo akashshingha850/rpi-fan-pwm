@@ -1,8 +1,15 @@
 # rpi-laptop-fan-pmw
  Control your raspberry pi with a laptopfan and control speed with pmw
 
- # Setup
+ # Install
  wget -qO- https://raw.githubusercontent.com/akashshingha850/rpi-fan-pwm/main/setup.sh | bash
+
+ # Check Status
+ sudo systemctl status rpi-fan-pwm
+
+ # Uninstall
+ wget -qO- https://raw.githubusercontent.com/akashshingha850/rpi-fan-pwm/main/uninstall.sh | bash
+ 
 
 
 ## Reference 
