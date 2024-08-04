@@ -1,6 +1,9 @@
 # rpi-laptop-fan-pmw
  Control your raspberry pi with a laptopfan and control speed with pmw
 
+ # Setup
+ wget -qO- https://raw.githubusercontent.com/akashshingha850/rpi-fan-pwm/main/setup.sh | bash
+
 
 ## Reference 
 1. pwm: https://blog.driftking.tw/en/2019/11/Using-Raspberry-Pi-to-Control-a-PWM-Fan-and-Monitor-its-Speed/#Use-PWM-to-Control-Fan-Speed 
