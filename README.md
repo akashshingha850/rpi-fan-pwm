@@ -1,5 +1,5 @@
 # rpi-laptop-fan-pmw
- Cool dow your raspberry pi with a laptop fan and control speed with pmw
+ Control your raspberry pi with a laptopfan and control speed with pmw
 
 
 ## Reference 
