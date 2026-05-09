@@ -17,9 +17,9 @@ FAN_PIN = 14           # BCM pin used to drive PWM fan
 WAIT_TIME = 2           # [s] Time to wait between each refresh
 
 OFF_TEMP = 50           # [°C] temperature below which to stop the fan
-MIN_TEMP = 60           # [°C] temperature above which to start the fan
-MAX_TEMP = 80           # [°C] temperature at which to operate at max fan speed
-FAN_LOW = 10
+MIN_TEMP = 55           # [°C] temperature above which to start the fan
+MAX_TEMP = 70           # [°C] temperature at which to operate at max fan speed
+FAN_LOW = 25
 FAN_HIGH = 100
 FAN_OFF = 0
 FAN_MAX = 100
